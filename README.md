@@ -1,5 +1,7 @@
 # Java Polymorphisme
 
+https://www.cours-gratuit.com/java/exercice-polymorphisme-java-tour-de-carte
+
 Vous vous intéressez dans cet exercice à décrire les données d'un jeu simulant des combats de magiciens.
 
 Dans ce jeu, il existe trois types de cartes : les terrains, les créatures et les sortilèges.
